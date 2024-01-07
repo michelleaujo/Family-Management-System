@@ -1,0 +1,13 @@
+.container-sm{
+    height: 100%;
+    width: 250vh;
+}
+
+.image{
+    background-color: rgb(57, 81, 68);
+}
+img{
+    width: 500%;
+    height: 10%;
+    
+}
