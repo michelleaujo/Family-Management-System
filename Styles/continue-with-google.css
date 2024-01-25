@@ -1,0 +1,13 @@
+.img{
+    width: 4vh;
+    height: 4vh;
+}
+.column{
+    width: 104%;
+  text-align: start;
+  column-width: 104%;
+  column-gap: ;
+}
+.heading{
+    text-align: center;
+}
