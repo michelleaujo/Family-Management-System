@@ -1,4 +1,38 @@
 .nav{
-    width:7vh;
-    height: 7vh;
+    width:8vh;
+    height: 8vh;
+}
+.img{
+    height: 5vh;
+    width: 5vh ;
+}
+.drop{
+    width: 5vh ;
+}
+.bar{
+    background-color: rgba(59, 81, 69, 0.58);
+}
+.family{
+    height: 60vh;
+}
+h4{
+    color: rgb(57, 81, 68);
+    
+}
+.hobby{
+    background-color: rgba(217, 217, 217, 1);
+}
+footer{
+    background-color: rgb(57, 81, 68)
+}
+.foot{
+    height: 6vh;
+    width: 6vh;
+}
+.foot1{
+    height: 5vh;
+}
+.dropdown-menu{
+    width: 70%;
+    
 }
